@@ -15,7 +15,7 @@ Either write your own CSS to override [Bootstrap](https://getbootstrap.com)'s de
 
 ## Demo
 
-https://robsd.github.io/html-link-page
+https://robsd.github.io/bootstrap-linktree/
 
 ## Support my work
 
